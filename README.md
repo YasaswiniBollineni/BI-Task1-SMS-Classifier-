@@ -2,7 +2,7 @@ Yasaswini Bollineni
 ID:ICOD7216
 Domain : Machine Learning
 Duration :25th APRIL 2024 to 25th MAY 2024
-Mentor : Sravani Gowni
+Mentor : Sravani Gouni
 Description : SMS, or Short Message Service, classification involves categorizing text messages into different classes or categories based on their content or purpose. One common classification task is distinguishing between spam and legitimate messages.
 
 Spam detection algorithms typically use machine learning techniques such as text classification models to analyze the content of incoming messages and determine whether they are spam or not. These models are trained on labeled datasets containing examples of both spam and non-spam messages.
